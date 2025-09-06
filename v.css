@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap");
+
+body {
+  background-image: linear-gradient(#b37a4c, #fff4c2, #fff4c2, #cc9966);
+  font-family: sans-serif;
+  height: 100vh;
+}
+.title-1 {
+  padding: 15px;
+  width: 100%;
+}
+.heading {
+  font-size: 120px;
+  color: #9c6137;
+  text-align: center;
+  text-shadow: #6e4323 2px 2px;
+}
+.heading-1 {
+  font-size: 80px;
+  color: #9c6137;
+  text-align: center;
+  font-family: "Brush Script MT", "Brush Script Std", cursive;
+}
+.sec {
+  text-align: center;
+  padding: 5%;
+}
+
+#email,
+#number {
+  width: 250px;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+.la {
+  font-family: "Brush Script MT", "Brush Script Std", cursive;
+  font-size: 42px;
+  color: #df8c51;
+}
+.btn {
+  font-size: 38px;
+  box-shadow: 2px 2px 5px #888888;
+  color: #6e4323;
+  width: 250px;
+  padding: 10px;
+  background-color: #cc9966;
+  margin-bottom: 15px;
+  border: 0px solid #ffffff;
+  border-radius: 10px;
+  margin: 5px;
+}
+.reset {
+  font-size: 38px;
+  color: #6e4323;
+  box-shadow: 2px 2px 5px #888888;
+  width: 250px;
+  padding: 10px;
+  background-color: #cc9966;
+  margin-bottom: 15px;
+  border: 0px solid #ffffff;
+  border-radius: 10px;
+  margin: 5px;
+}
